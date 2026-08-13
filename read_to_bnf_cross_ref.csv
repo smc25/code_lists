@@ -10,7 +10,7 @@ da9,Citalopram,SSRI,Selective serotonin re-uptake inhibitors,0403030Z0,Citalopra
 d73,Clomipramine Hydrochloride,TCA,Tricyclic and related antidepressant drugs,0403010F0,Clomipramine hydrochloride,,4.3.1,Matched,,
 d91,Compound antidepressants A-Z,Compound,,,—,,4.3.1,Missing – no BNF code,Combination products (e.g. Triptafen),
 d9,Compound antidepressants drugs,Compound,,,—,,4.3.1,Missing – no BNF code,Combination products; no single chemical-substance code,
-d74,desipramine,TCA,,,—,,4.3.1,Missing – no BNF code,Withdrawn in UK,
+d74,desipramine,TCA,,0403010H0,—,,4.3.1,Matched,Withdrawn in UK,
 d75,Dosulepin hydrochloride,TCA,Tricyclic and related antidepressant drugs,0403010J0,Dosulepin hydrochloride,,4.3.1,Matched,,
 d76,Doxepin,TCA,Tricyclic and related antidepressant drugs,0403010L0,Doxepin,,4.3.1,Matched,,
 gde,Duloxetine,SNRI,Other antidepressant drugs,0403040Y0,Duloxetine hydrochloride,,4.3.4,Matched,Old retired code 0403030Y0 also exists,
