@@ -18,14 +18,14 @@ Saraid McIlvride, University of Glasgow
 ## Source
 
 Validated against the **BNF Code Information (historic)** dataset (NHSBSA Open Data Portal), version 78 (2020).
-<https://opendata.nhsbsa.net/dataset/bnf-code-information-historic/resource/b3312336-c40d-4627-b8d1-a69c323de4b6>
-Identified from multiple sources:
-https://phenotypes.healthdatagateway.org/phenotypes/PH1976/detail/
-https://www.opencodelists.org/codelist/user/kate-mansfield/bnf-subcat-040102-anxiolytics/7b167721/
-https://pubmed.ncbi.nlm.nih.gov/35314430/
-https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003931
-https://www.opencodelists.org/codelist/opensafely/second-generation-antipsychotics-excluding-long-acting-injections/6c7c3c11/
-https://www.opencodelists.org/codelist/opensafely/first-generation-antipsychotics-excluding-long-acting-depots-dmd/1e9b227c/
+<https://opendata.nhsbsa.net/dataset/bnf-code-information-historic/resource/b3312336-c40d-4627-b8d1-a69c323de4b6>  
+Identified from multiple sources:  
+https://phenotypes.healthdatagateway.org/phenotypes/PH1976/detail/  
+https://www.opencodelists.org/codelist/user/kate-mansfield/bnf-subcat-040102-anxiolytics/7b167721/  
+https://pubmed.ncbi.nlm.nih.gov/35314430/  
+https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003931  
+https://www.opencodelists.org/codelist/opensafely/second-generation-antipsychotics-excluding-long-acting-injections/6c7c3c11/  
+https://www.opencodelists.org/codelist/opensafely/first-generation-antipsychotics-excluding-long-acting-depots-dmd/1e9b227c/  
 
 
 ## Change log
