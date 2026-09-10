@@ -1,0 +1,48 @@
+﻿Read_code,Description,BNF_9char_code,BNF_chemical_substance,class,note
+d4n,zuclopenthixol acetate,040201010,Zuclopenthixol acetate,FGA,"Short-acting IM (Acuphase), depot"
+d4p,risperidone,040201030,Risperidone,SGA,Depot=0402020AA
+d4q,sertindole,040201050,Sertindole,SGA,
+d4r,olanzapine,040201060,Olanzapine,SGA,"Depot (embonate)=0402020AC, antiemetic"
+d4t,amisulpride,0402010A0,Amisulpride,SGA,Substituted benzamide
+d4s,quetiapine,0402010AB,Quetiapine,SGA,Dibenzothiazepine
+d4u,zotepine,0402010AC,Zotepine,SGA,Withdrawn in UK; code exists
+d4v,aripiprazole,0402010AD,Aripiprazole,SGA,Depot=0402020AD
+d4w,paliperidone,0402010AE,Paliperidone,SGA,Oral; depot=0402020AB
+d4y,lurasidone,0402010AI,Lurasidone,SGA,Benzisothiazole
+d42,benperidol,0402010B0,Benperidol,FGA,Butyrophenone
+d4l,clozapine,0402010C0,Clozapine,SGA,Dibenzodiazepine
+d41,chlorpromazine hydrochloride,0402010D0,Chlorpromazine hydrochloride,FGA,"Phenothiazine, antiemetic"
+d43,chlorprothixene,0402010F0,Chlorprothixene,FGA,Thioxanthene
+d44,DROPERIDOL [CNS use],0402010G,Droperidol,FGA,
+d45,flupentixol [antipsychotic],0402010H0,Flupentixol hydrochloride,FGA,Thioxanthene; depot=0402020G0; antidepressant use=0403040F0
+d46,fluphenazine hydrochloride,0402010I0,Fluphenazine hydrochloride,FGA,Phenothiazine; depot=0402020L0
+d47,haloperidol [antipsychotic],0402010J0,Haloperidol,FGA,"Butyrophenone; depot=0402020T0, antiemetic"
+d48,levomepromazine,0402010K0,Levomepromazine maleate,FGA,Phenothiazine; injection=hydrochloride 0402010L0
+,,0402010L0,Levomepromazine hydrochloride,FGA,parenteral
+d4k,loxapine succinate,0402010M0,Loxapine succinate,FGA,Dibenzoxazepine
+d49,oxypertine,0402010N0,Oxypertine,FGA,
+d4a,pericyazine,0402010P0,Pericyazine,FGA,Phenothiazine (aka periciazine)
+d4b,perphenazine [cns],0402010Q0,Perphenazine,FGA,Phenothiazine
+d4c,pimozide,0402010R0,Pimozide,FGA,Diphenylbutylpiperidine
+d4e,promazine hydrochloride,0402010S0,Promazine hydrochloride,FGA,Phenothiazine
+d4j,zuclopenthixol dihydrochloride,0402010T0,Zuclopenthixol hydrochloride,FGA,Thioxanthene (oral); acetate=040201010; decanoate=0402020Z0
+d4f,sulpiride,0402010U0,Sulpiride,FGA,Substituted benzamide (sometimes classed atypical)
+d4g,thioridazine,0402010W0,Thioridazine,FGA,Phenothiazine (restricted use)
+d4h,trifluoperazine [antipsychotic],0402010X0,Trifluoperazine,FGA,Phenothiazine
+d58,olanzapine pamoate,0402020AC,Olanzapine embonate,SGA,Depot (pamoate = embonate)
+,,0402020AA,Risperidone (Parenteral),SGA,Depot
+,,0402020AB,Paliperidone (Injection),SGA,Depot
+,,0402020AD,Aripiprazole,SGA,Depot
+d51,flupentixol decanoate,0402020G0,Flupentixol decanoate,FGA,Depot
+d52,fluphenazine decanoate,0402020L0,Fluphenazine decanoate,FGA,Depot
+d55,haloperidol decanoate,0402020T0,Haloperidol decanoate,FGA,Depot
+d56,pipotiazine palmitate,0402020V0,Pipotiazine palmitate,FGA,Depot (discontinued but code exists)
+d57,zuclopenthixol decanoate,0402020Z0,Zuclopenthixol decanoate,FGA,Depot
+d4x,asenapine,0402030R0,Asenapine,SGA,"BNF 4.2.3 (mania/hypomania), not 4.2.1"
+d4d,*prochlorperazine [antipsych] [see dhe],0406000T0,Prochlorperazine maleate,FGA,"BNF 4.6 (nausea/vertigo); mesilate=0406000U0, antiemetic"
+,,0406000U0,Prochlorperazine mesilate,FGA,"BNF 4.6 (nausea/vertigo), antiemetic"
+d4i,trifluperidol,,Trifluperidol,FGA,Withdrawn; no BNF code
+d4m,remoxipride,,Remoxipride,SGA,Withdrawn 1993; no BNF code
+d53,*fluphenazine enanthate,,Fluphenazine enanthate,FGA,Discontinued; no BNF code
+d54,fluspirilene,,Fluspirilene,FGA,Withdrawn; no BNF code
+dhh,*THIETHYLPERAZINE,,Thiethylperazine,FGA,Withdrawn; no BNF code
