@@ -8,7 +8,7 @@ Saraid McIlvride, University of Glasgow
 
 | File | Description |
 |------|-------------|
-| `antideps_bnf_v1.csv` | Antidepressant code list based on BNF (British National Formulary) codes. |
+| `antideps_bnf_v1_1.csv` | Antidepressant code list based on BNF (British National Formulary) codes. Version 1.1 |
 | `read_to_bnf_cross_ref_antideps.csv` | Cross-reference mapping Read codes used in SAIL Databank (https://github.com/smc25/antideps_code/blob/main/antidepressants_full.csv) to their corresponding BNF codes. |
 | `antipsychotics_bnf_v1.csv` | Antidepressant code list based on BNF (British National Formulary) codes. |
 | `read_to_bnf_antipsychotics.csv` | Cross-reference mapping Read codes used in SAIL Databank (https://github.com/smc25/antideps_code/blob/main/antipsychotics.csv) to their corresponding BNF codes. |
