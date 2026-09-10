@@ -1,0 +1,30 @@
+﻿Read_v2_code,Description,BNF_9char_code,BNF_chemical_substance,Group,Notes
+d22,Alprazolam,0401010I0,Alprazolam,Benzodiazepine,Anxiety
+d23,Bromazepam,0401020A0,Bromazepam,Benzodiazepine,"not routinely available, severe anxiety, panic disorder"
+d2f,Buspirone hydrochloride,0401020G0,Buspirone hydrochloride,,Anxiety
+d11,chloral hydrate,0401020B0,Chloral hydrate,,Insomnia
+d24,Chlordiazepoxide,0401010B0,Chlordiazepoxide hydrochloride,Benzodiazepine,"Anxiety, also alcohol withdrawal, Base 'Chlordiazepoxide' 0401020D0 historic"
+d26,Clobazam,0401020E0,Clobazam,Benzodiazepine,"Anxiety, epilepsy BNF files clobazam under 4.8.1 only"
+d12,Clomethiazole Edisylate [Hypnotic],040801060,Clomethiazole edisilate,,"Insomnia, restlessness, agitation, Base 'Clomethiazole' = 0401010F0"
+d21,Diazepam,0408010F0,Diazepam,Benzodiazepine,Anxiety
+d27,Clorazepate dipotassium,0401020V0,Dipotassium clorazepate,,"Anxiety, alcohol withdrawal, epilepsy"
+d14,*Flunitrazepam,0401020K0,Flunitrazepam,Benzodiazepine,Insomnia
+d15,Flurazepam,0401010L0,Flurazepam hydrochloride,Benzodiazepine,Insomnia
+dnj,Gabapentin,0408010G0,Gabapentin,,Also epilepsy and nerve pain
+d28,Hydroxyzine,0304010J0,Hydroxyzine hydrochloride,,"Antihistamine, BNF 3.4.1 not 4.1.2"
+d16,Loprazolam,0401010N0,Loprazolam mesilate,Benzodiazepine,Insomnia
+d2a,Lorazepam,0401020P0,Lorazepam,Benzodiazepine,Sedating anti-histamine
+d1h,Melatonin,0401010AD,Melatonin,,
+d18,Nitrazepam,0401010R0,Nitrazepam,Benzodiazepine,
+d2d,Oxazepam,0401020T0,Oxazepam,Benzodiazepine,
+dnp,Pregabalin,0408010AE,Pregabalin,,Also epilepsy and nerve pain
+d19,Promethazine Hcl [Hypnotic] See Section C8I,0304010W0,Promethazine hydrochloride,,"Antihistamine, BNF 3.4.1 not 4.1.1"
+,,0401010T0,Propranolol hydrochloride,Beta blocker,"New addition, Beta blocker"
+d1a,Temazepam [Hypnotic],0401010X0,Temazepam,Benzodiazepine,
+d1c,Triclofos Sodium,0401010W0,Triclofos sodium,,
+d1g,Zaleplon,0401010Y0,Zaleplon,,
+d1f,Zolpidem,0401010Z0,Zolpidem tartrate,,
+d1d,Zopiclone,0204000R0,Zopiclone,,Insomnia
+dn4,Clonazepam,0401010D0,Clonazepam,Benzodiazepine,"Remove- Epilepsy, panic disorders, Status-epilepticus form = 0408020D0"
+d17,Lormetazepam,0401010P0,Lormetazepam,Benzodiazepine,Remove - reversal agent
+d2c,Meprobamate,0401020R0,Meprobamate,,Remove - Stimulant
