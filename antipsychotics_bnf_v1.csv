@@ -14,7 +14,7 @@
 0402010C0,Clozapine,SGA,Dibenzodiazepine
 0402010D0,Chlorpromazine hydrochloride,FGA,"Phenothiazine, antiemetic"
 0402010F0,Chlorprothixene,FGA,Thioxanthene
-0402010G,Droperidol,FGA,
+0402010G0,Droperidol,FGA,
 0402010H0,Flupentixol hydrochloride,FGA,Thioxanthene; depot=0402020G0; antidepressant use=0403040F0
 0402010I0,Fluphenazine hydrochloride,FGA,Phenothiazine; depot=0402020L0
 0402010J0,Haloperidol,FGA,"Butyrophenone; depot=0402020T0, antiemetic"
