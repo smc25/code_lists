@@ -1,0 +1,34 @@
+﻿BNF_chemical_substance,BNF_9char_code,Group,Notes
+Chloral hydrate,0401010B0,,Insomnia
+Clomethiazole edisylate,0401010D0,,"Insomnia, restlessness, agitation, Base 'Clomethiazole' = 0401010F0"
+Flunitrazepam,0401010I0,Benzodiazepine,Insomnia
+Flurazepam hydrochloride,0401010L0,Benzodiazepine,Insomnia
+Loprazolam mesilate,0401010N0,Benzodiazepine,Insomnia
+Lormetazepam,0401010P0,Benzodiazepine,
+Nitrazepam,0401010R0,Benzodiazepine,
+Promethazine hydrochloride,0304010W0,,Antihistamine
+Temazepam,0401010T0,Benzodiazepine,
+Triclofos sodium,0401010X0,,
+Zopiclone,0401010Z0,,Insomnia
+Zolpidem tartrate,0401010Y0,,
+Zaleplon,0401010W0,,
+Melatonin,0401010AD,,
+Diazepam,0401020K0,Benzodiazepine,Anxiety
+Alprazolam,0401020A0,Benzodiazepine,Anxiety
+Bromazepam,0401020G0,Benzodiazepine,"not routinely available, severe anxiety, panic disorder"
+Chlordiazepoxide hydrochloride,0401020E0,Benzodiazepine,"Anxiety, also alcohol withdrawal, Base 'Chlordiazepoxide' 0401020D0 historic"
+Clobazam,040801060,Benzodiazepine,"Anxiety, epilepsy BNF files clobazam under 4.8.1 only"
+Dipotassium clorazepate,0401020V0,,"Anxiety, alcohol withdrawal, epilepsy"
+Hydroxyzine hydrochloride,0304010J0,,Antihistamine
+Lorazepam,0401020P0,Benzodiazepine,
+Meprobamate,0401020R0,,
+Oxazepam,0401020T0,Benzodiazepine,
+Buspirone hydrochloride,0401020B0,,Anxiety
+Amobarbital,0401030C0,Barbiturates,Under d31 barbiturates in Read
+Amobarbital sodium,0401030E0,Barbiturates,Under d31 barbiturates in Read
+Butobarbital,0401030H0,Barbiturates,Under d31 barbiturates in Read
+Secobarbital sodium,0401030T0,Barbiturates,Under d31 barbiturates in Read
+Clonazepam,0408010F0,Benzodiazepine,
+Gabapentin,0408010G0,,Also epilepsy and nerve pain
+Pregabalin,0408010AE,,Also epilepsy and nerve pain
+Propranolol hydrochloride,0204000R0,Beta blocker,"New addition, Beta blocker"
