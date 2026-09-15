@@ -1,6 +1,8 @@
 ﻿BNF_chemical_substance,BNF_9char_code,Group,Notes
 Chloral hydrate,0401010B0,,Insomnia
+Clomethiazole,0401010F0,,Insomnia
 Clomethiazole edisylate,0401010D0,,"Insomnia, restlessness, agitation, Base 'Clomethiazole' = 0401010F0"
+Cloral betaine,0401010C0,,Insomnia
 Flunitrazepam,0401010I0,Benzodiazepine,Insomnia
 Flurazepam hydrochloride,0401010L0,Benzodiazepine,Insomnia
 Loprazolam mesilate,0401010N0,Benzodiazepine,Insomnia
