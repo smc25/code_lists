@@ -1,0 +1,44 @@
+﻿Read_v2_code,BNF_chemical_substance,BNF_9char_code,Group,Notes
+d11,Chloral hydrate,0401010B0,,Insomnia
+d12,Clomethiazole edisylate,0401010D0,,"Insomnia, restlessness, agitation, Base 'Clomethiazole' = 0401010F0"
+d13,*dichloralphenazone,—,—,Withdrawn (marked * in Read)
+d14,Flunitrazepam,0401010I0,Benzodiazepine,Insomnia
+d15,Flurazepam hydrochloride,0401010L0,Benzodiazepine,Insomnia
+d16,Loprazolam mesilate,0401010N0,Benzodiazepine,Insomnia
+d17,Lormetazepam,0401010P0,Benzodiazepine,
+d18,Nitrazepam,0401010R0,Benzodiazepine,
+d19,Promethazine hydrochloride,0304010W0,,Antihistamine
+d1a,Temazepam,0401010T0,Benzodiazepine,
+d1b,*Triazolam,—,—,Withdrawn in UK (marked *)
+d1c,Triclofos sodium,0401010X0,,
+d1d,Zopiclone,0401010Z0,,Insomnia
+d1e,*Glutethimide [No Drugs Here],—,—,Withdrawn (marked *)
+d1f,Zolpidem tartrate,0401010Y0,,
+d1g,Zaleplon,0401010W0,,
+d1h,Melatonin,0401010AD,,
+d21,Diazepam,0401020K0,Benzodiazepine,Anxiety
+d22,Alprazolam,0401020A0,Benzodiazepine,Anxiety
+d23,Bromazepam,0401020G0,Benzodiazepine,"not routinely available, severe anxiety, panic disorder"
+d24,Chlordiazepoxide hydrochloride,0401020E0,Benzodiazepine,"Anxiety, also alcohol withdrawal, Base 'Chlordiazepoxide' 0401020D0 historic"
+d25,Chlormezanone,—,—,Withdrawn worldwide 1996
+d26,Clobazam,040801060,Benzodiazepine,"Anxiety, epilepsy BNF files clobazam under 4.8.1 only"
+d27,Dipotassium clorazepate,0401020V0,,"Anxiety, alcohol withdrawal, epilepsy"
+d28,Hydroxyzine hydrochloride,0304010J0,,Antihistamine
+d29,*Ketazolam,—,—,Withdrawn (marked *)
+d2a,Lorazepam,0401020P0,Benzodiazepine,
+d2b,*Medazepam,—,—,Withdrawn (marked *)
+d2c,Meprobamate,0401020R0,,
+d2d,Oxazepam,0401020T0,Benzodiazepine,
+d2e,*Prazepam,—,—,Withdrawn (marked *)
+d2f,Buspirone hydrochloride,0401020B0,,Anxiety
+d31..,Amobarbital,0401030C0,Barbiturates,Under d31 barbiturates in Read
+d31..,Amobarbital sodium,0401030E0,Barbiturates,Under d31 barbiturates in Read
+d31..,Butobarbital,0401030H0,Barbiturates,Under d31 barbiturates in Read
+d31..,Secobarbital sodium,0401030T0,Barbiturates,Under d31 barbiturates in Read
+d32,*Methyprylone,—,—,Withdrawn (marked *)
+dn4,Clonazepam,0408010F0,Benzodiazepine,
+dn6,Methylphenobarbital,—,—,Discontinued in UK; not in 4.8.1 list
+dnc,Clobazam [epilepsy only],040801060,,"Also d26, epilepsy"
+dnj,Gabapentin,0408010G0,,Also epilepsy and nerve pain
+dnp,Pregabalin,0408010AE,,Also epilepsy and nerve pain
+,Propranolol hydrochloride,0204000R0,Beta blocker,"New addition, Beta blocker"
